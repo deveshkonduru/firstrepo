@@ -1,4 +1,3 @@
  second git fiel and adding something2
  line from f1
  reset test 
- revert test again
