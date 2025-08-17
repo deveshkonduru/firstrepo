@@ -1,3 +1,4 @@
  second git fiel and adding something2
  line from master
  line from f1
+ f2 work
