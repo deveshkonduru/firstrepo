@@ -1,5 +1,8 @@
  second git fiel and adding something2
+ line from master
  line from f1
  reset test 
  edit after cherry pick
+
+ f2 work
 edited in hub
